@@ -3,3 +3,4 @@ test file-2
 20260808-1
 branch-1 txt -> commit - 2
 branch-1 -> branch-1-to-branch-2  -> commit - 1
+branch-1 -> branch-1-to-branch-2  -> commit - 1 -> without commit few changes (Need to commit now to switch a branch, with modified in local without commiting or stashing, we cannt switch branch.) -> commit-2
