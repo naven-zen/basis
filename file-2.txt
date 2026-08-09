@@ -2,3 +2,6 @@ test file-2
 20260808
 20260808-1
 branch-1 txt -> commit - 2
+20260809 -> at this stage merged this branch with Master
+Now giving one more commit, master-to-branch-1 -> commit-3 
+Adding one more commit, master-to-branch-1 -> commit-4
