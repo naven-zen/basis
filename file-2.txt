@@ -5,3 +5,4 @@ branch-1 txt -> commit - 2
 20260809 -> at this stage merged this branch with Master
 Now giving one more commit, master-to-branch-1 -> commit-3 
 Adding one more commit, master-to-branch-1 -> commit-4
+20260812 branch -> fast-forward-merge, update-1
