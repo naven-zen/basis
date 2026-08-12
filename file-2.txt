@@ -6,3 +6,4 @@ branch-1 txt -> commit - 2
 Now giving one more commit, master-to-branch-1 -> commit-3 
 Adding one more commit, master-to-branch-1 -> commit-4
 20260812 branch -> fast-forward-merge, update-1
+20260812 branch -> fast-forward-merge, update-2
