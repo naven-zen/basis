@@ -7,10 +7,9 @@ Now giving one more commit, master-to-branch-1 -> commit-3
 Adding one more commit, master-to-branch-1 -> commit-4
 20260812 branch -> fast-forward-merge, update-1
 20260812 branch -> fast-forward-merge, update-2
-<<<<<<< HEAD
 20260812 branch -> merge-wo-conflict-2, update-1
 20260812 branch -> merge-wo-conflict-2, update-2
-=======
+======= Some confusion here, i have resolved conflict but after one day, file is saved how to conflict will be. Not putting much time into this
 20260812 branch -> merge-wo-conflict-1, update-1
 20260812 branch -> merge-wo-conflict-1, update-2
->>>>>>> merge-wo-conflict-1
+20260812 branch -> master, to make this branch ahead of behind-commit branch, giving one commit
