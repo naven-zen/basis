@@ -13,3 +13,4 @@ Adding one more commit, master-to-branch-1 -> commit-4
 20260812 branch -> merge-wo-conflict-1, update-1
 20260812 branch -> merge-wo-conflict-1, update-2
 20260812 branch -> master, to make this branch ahead of behind-commit branch, giving one commit
+20260818 branch -> stash-1, commit-1
