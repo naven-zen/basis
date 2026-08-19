@@ -15,3 +15,4 @@ Adding one more commit, master-to-branch-1 -> commit-4
 20260812 branch -> master, to make this branch ahead of behind-commit branch, giving one commit
 20260818 branch -> stash-1, commit-1
 20260818 branch -> stash-2, update-1
+20260819 branch -> stash-2, "WIP in stash-2", commit-1
