@@ -2,3 +2,4 @@ test file-1
 20260808
 20260808-1
 branch-1 txt  -> commit - 2
+branch branch1-from-detach-head-1 created from detached HEAD of branch of detach-head-1, here commit-1
