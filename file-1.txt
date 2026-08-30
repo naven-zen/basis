@@ -20,3 +20,4 @@ Adding one more commit, master-to-branch-1 -> commit-4
 20260819 branch -> stash-2, "WIP in stash-2", commit-1
 20260830 branch -> detach-head-1, testing git restore --staged <file-name> command, file-1.txt commit-1
 20260830 branch -> reset-wit-n-out-hard, testing git reset command, so giving some 3 commits to get back to this commit-1
+20260830 branch -> revert-git, testing git revert command, so giving some 3 commits to get back to this commit-1
