@@ -1,1 +1,2 @@
 20260904 B push-Alocal-2-Bremote, i have created this brnach and added few changes and done git push origin push-Alocal-2-Bremote, few times, now testing just "git push" after changes, this test for git push -u origin push-Alocal-2-Bremote mainly -u is specified once we can then use just git push there-on 
+so git push didnr work as --set-upstream is not provided before, now done with git push --set-upstream origin push-Alocal-2-Bremote, now will try with just "git push" it should succeed.
