@@ -1,2 +1,5 @@
 20260909 - created branch in github, then git fetch origin to sync changes in github to local, then created branch git switch <remote-b-name> to create local branch which will track the remote branch, added a file and commiting it.
 Added 2 commits from github, and now adding 1 commit from local to test, whether this local commit can be placed on top of 2 commits from github
+Below changes from github
+20260909 - created branch in github, then git fetch origin to sync changes in github to local, then created branch git switch <remote-b-name>, added a file and commiting it.
+20260909 - created branch in github, then git fetch origin to sync changes in github to local, then created branch git switch <remote-b-name> to create local branch which will track the remote branch, added a file and commiting it.<copying above line and paster here, then will remove half line or few words from above to get merge conflict> 
