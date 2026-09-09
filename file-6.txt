@@ -1,0 +1,1 @@
+20260909 - created branch in github, then git fetch origin to sync changes in github to local, then created branch git switch <remote-b-name> to create local branch which will track the remote branch, added a file and commiting it.
