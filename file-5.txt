@@ -1,1 +1,2 @@
 20260903 - Added this file-5 after pushing the branch of master with files-1 to 4. Now i am giving a commit and pushing this updated branch master to github
+20260910 - this commit is from github and then i will use shortform of git pull instead of git pull <remote-alias> <branch> to update my local
