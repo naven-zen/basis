@@ -1,0 +1,7 @@
+20260922 After enabling branch protection, i am creating this file
+got below msg while committing from master B, will rename brnach name
+"You can’t commit to master because it is a protected branch
+
+Create a new branch for this commit and start a pull request Learn more about pull requests
+Branch Name
+naven-zen-patch-1"
