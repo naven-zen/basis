@@ -3,3 +3,4 @@ Added 2 commits from github, and now adding 1 commit from local to test, whether
 Below changes from github
 20260909 - created branch in github, then git fetch origin to sync changes in github to local, then created branch git switch <remote-b-name>, added a file and commiting it.
 20260909 - created branch in github, then git fetch origin to sync changes in github to local, then created branch git switch <remote-b-name> to create local branch which will track the remote branch, added a file and commiting it.<copying above line and paster here, then will remove half line or few words from above to get merge conflict> 
+20261006 - This is from GitHub GUI from naven-zen user, and to make PR merge conflict, i have already commited and pushed code from pr-conflict-2 branch from main. Now this change is from GH, now pr-conflict-2 to be merged with pr-conflict-1, let see whether we get a conflict
